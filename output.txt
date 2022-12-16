@@ -1,0 +1,81 @@
+Your words:
+ab
+bc
+cd
+de
+ef
+fg
+gh
+hi
+ij
+jk
+kl
+lm
+mn
+no
+op
+pq
+qr
+rs
+st
+tu
+People num -  ab -> bc
+0 was started coding!
+People num -  1 was started coding!
+bc -> cd
+People num -  2 was started coding!
+cd -> de
+People num -  3 was started coding!
+de -> ef
+People num -  4 was started coding!
+ef -> fg
+People num -  5 was started coding!
+fg -> gh
+People num -  6 was started coding!
+gh -> hi
+People num -  7 was started coding!
+hi -> ij
+People num -  8 was started coding!
+ij -> jk
+People num -  9 was started coding!
+jk -> kl
+People num -  10 was started coding!
+kl -> lm
+People num -  11 was started coding!
+lm -> mn
+People num -  12 was started coding!
+mn -> no
+People num -  13 was started coding!
+no -> op
+People num -  14 was started coding!
+op -> pq
+People num -  15 was started coding!
+pq -> qr
+People num -  16 was started coding!
+qr -> rs
+People num -  17 was started coding!
+rs -> st
+People num -  18 was started coding!
+st -> tu
+People num -  19 was started coding!
+tu -> uv
+People num - 0 has finished!!!
+People num - 1 has finished!!!
+People num - 2 has finished!!!
+People num - 3 has finished!!!
+People num - 4 has finished!!!
+People num - 5 has finished!!!
+People num - 6 has finished!!!
+People num - 7 has finished!!!
+People num - 8 has finished!!!
+People num - 9 has finished!!!
+People num - 10 has finished!!!
+People num - 11 has finished!!!
+People num - 12 has finished!!!
+People num - 13 has finished!!!
+People num - 14 has finished!!!
+People num - 15 has finished!!!
+People num - 16 has finished!!!
+People num - 17 has finished!!!
+People num - 18 has finished!!!
+People num - 19 has finished!!!
